@@ -1,4 +1,4 @@
-## Hello, my name is Vilius
+## Hello, I'm Vilius
 
 ## Skills
 ### Programming
