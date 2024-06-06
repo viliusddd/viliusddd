@@ -19,7 +19,6 @@ I'm a Full Stack Developer from Vilnius, Lithuania, currently working on improvi
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff)
 ![SaltStack](https://img.shields.io/badge/SaltStack-57BCAD?style=flat&logo=salt-project&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=EC912D)
-![]()
 
 ### Development
 ![CI/CD](https://img.shields.io/badge/CI/CD-193446?style=flat&logoColor=EC912D)
@@ -38,5 +37,5 @@ TSConfig     43 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## Links
-[![Github Pages](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vilius1/)
-[![Github Pages](https://img.shields.io/badge/TryHackMe-1C2538?style=flat&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/v11)
+[![LinkedIn](https://img.shields.io/badge/vilius1-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vilius1/)
+[![TryHackMe](https://img.shields.io/badge/v11-1C2538?style=flat&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/v11)
