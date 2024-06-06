@@ -26,6 +26,15 @@ I'm a Full Stack Developer from Vilnius, Lithuania, currently working on improvi
 ![TDD](https://img.shields.io/badge/TDD-193446?style=flat&logoColor=EC912D)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     5 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.46 %
+TypeScript   5 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.82 %
+JavaScript   2 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+JSON         2 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+TSConfig     43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Links
