@@ -1,4 +1,7 @@
-## Hello, I'm Vilius
+## Hello, I'm Vilius 👋
+
+Welcome to my page!
+I'm a Full Stack Developer from Vilnius, Lithuania, currently working on improving my web development skills.
 
 ## Skills
 ### Programming
@@ -21,6 +24,9 @@
 ### Development
 ![CI/CD](https://img.shields.io/badge/CI/CD-193446?style=flat&logoColor=EC912D)
 ![TDD](https://img.shields.io/badge/TDD-193446?style=flat&logoColor=EC912D)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Links
 [![Github Pages](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vilius1/)
