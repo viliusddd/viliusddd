@@ -49,10 +49,19 @@ TSConfig     43 mins         █░░░░░░░░░░░░░░░░
 <br><br>
 
 <p align=center>
-  <a href="https://www.linkedin.com/in/vilius1/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/vilius1-0A66C2?style=flat&logo=linkedin&logoColor=fff">
+  <a href="https://www.linkedin.com/in/vilius1">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/vilius1-0A66C2?logo=linkedin&logoColor=fff">
+  </a>
+  <a href="https://stackoverflow.com/users/8677878">
+    <img alt="StackOverflow" src="https://img.shields.io/badge/8677878-FE7A16?logo=stack-overflow&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/profile/vilius1">
+    <img alt="HackerRank" src="https://img.shields.io/badge/vilius1-0E141E?logo=hackerrank&logoColor=2EC866">
+  </a>
+  <a href="https://leetcode.com/vilius1">
+    <img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvilius1&logo=leetcode&logoColor=yellow">
   </a>
   <a href="https://tryhackme.com/p/v11">
-    <img alt="TryHackMe" src="https://img.shields.io/badge/v11-1C2538?style=flat&logo=tryhackme&logoColor=C11111">
+    <img alt="TryHackMe" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftryhackme.com%2Fapi%2Fuser%2Frank%2Fv1&query=userRank&logo=tryhackme&logoColor=C11111&label=rank&labelColor=1C2538&color=6E9A23">
   </a>
 </p>
