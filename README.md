@@ -34,7 +34,10 @@ I'm a Full Stack Developer from Vilnius, Lithuania, currently working on improvi
 
 ### In the last 7 days, I spent my time on:
 <!--START_SECTION:waka-->
+
 ```txt
+Total Time: 17 hrs 33 mins
+
 Markdown     5 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.46 %
 TypeScript   5 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.82 %
 JavaScript   2 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
