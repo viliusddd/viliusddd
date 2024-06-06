@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 20:05 Vilnius time
-    - cron: "5 17 * * *"
+    - cron: '5 17 * * *'
 
 jobs:
   update-readme:
@@ -14,3 +14,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: 'chore: update waka-readme graph with new metrics'
+          COMMITTER_NAME: gh-actions-bot
+          SHOW_TOTAL: true
