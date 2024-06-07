@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 20:05 Vilnius time
-    - cron: '5 17 * * *'
+    - cron: '33 8 * * *'
 
 jobs:
   update-readme:
