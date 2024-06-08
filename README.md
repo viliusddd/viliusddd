@@ -69,7 +69,3 @@ HTML         1 hr 28 mins    █▓░░░░░░░░░░░░░░░
   </a>
 </p>
 
-
-[![monkeytype.badge]](https://monkeytype.com/profile/v11)
-
-[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D83wpm%26label%3D%26logoVariant%3Dtwo
