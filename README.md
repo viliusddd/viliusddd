@@ -65,8 +65,6 @@ HTML         1 hr 28 mins    █▓░░░░░░░░░░░░░░░
     <img alt="TryHackMe" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftryhackme.com%2Fapi%2Fuser%2Frank%2Fv1&query=userRank&logo=tryhackme&logoColor=C11111&label=rank&labelColor=1C2538&color=6E9A23">
   </a>
   <a href="https://monkeytype.com/profile/v11">
-    <img alt="MonkeyType" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D83wpm%26label%3D%26logoVariant%3Dtwo">
+    <img alt="MonkeyType" src="https://img.shields.io/badge/86-E2B714?logo=monkeytype&logoColor=E2B714&label=wpm&logo-color=E2B714">
   </a>
 </p>
-
-[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D86wpm%26label%3D%26logoVariant%3Dtwo
