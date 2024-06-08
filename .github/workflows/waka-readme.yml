@@ -23,4 +23,4 @@ jobs:
           mode2: '60'
           style: 'flat'
           logoVariant: 'two'
-          label: ''
+          label: ' '
