@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Readme.md
 
 on:
   workflow_dispatch:
@@ -16,3 +16,11 @@ jobs:
           COMMIT_MESSAGE: 'chore: update waka-readme graph with new metrics'
           COMMITTER_NAME: gh-actions-bot
           SHOW_TOTAL: true
+      - uses: vnphanquang/monkeytype-readme@main
+        with:
+          monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
+          mode: 'time'
+          mode2: '60'
+          style: 'flat'
+          logoVariant: 'two'
+          label: ''
