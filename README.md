@@ -53,7 +53,7 @@ Python       1 hr 48 mins    █▓░░░░░░░░░░░░░░░
     <img alt="LinkedIn" src="https://img.shields.io/badge/vilius1-0A66C2?logo=linkedin&logoColor=fff">
   </a>
   <a href="https://stackoverflow.com/users/8677878">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/8677878-FE7A16?logo=stack-overflow&logoColor=white">
+    <img alt="StackOverflow" src="https://img.shields.io/badge/-FE7A16?logo=stack-overflow&logoColor=white">
   </a>
   <a href="https://www.hackerrank.com/profile/vilius1">
     <img alt="HackerRank" src="https://img.shields.io/badge/vilius1-0E141E?logo=hackerrank&logoColor=2EC866">
