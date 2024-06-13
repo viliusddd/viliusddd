@@ -65,6 +65,6 @@ Python        1 hr 35 mins    █▓░░░░░░░░░░░░░░�
     <img alt="TryHackMe" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftryhackme.com%2Fapi%2Fuser%2Frank%2Fv1&query=userRank&logo=tryhackme&logoColor=C11111&label=rank&labelColor=1C2538&color=6E9A23">
   </a>
   <a href="https://monkeytype.com/profile/v11">
-    <img alt="MonkeyType" src="https://img.shields.io/badge/92-E2B714?logo=monkeytype&logoColor=E2B714&label=wpm&logo-color=E2B714">
+    <img alt="MonkeyType" src="https://img.shields.io/badge/95-E2B714?logo=monkeytype&logoColor=E2B714&label=wpm&logo-color=E2B714">
   </a>
 </p>
