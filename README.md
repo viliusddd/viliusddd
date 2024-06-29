@@ -36,13 +36,13 @@ I'm a Full Stack Developer from Vilnius, Lithuania, currently working on improvi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 hrs 38 mins
+Total Time: 24 hrs 29 mins
 
-TypeScript   21 hrs 5 mins   ███████████████████░░░░░░   75.76 %
-Markdown     2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-SQL          1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-JavaScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+TypeScript   17 hrs 25 mins  █████████████████▓░░░░░░░   70.60 %
+Markdown     2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+SQL          1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+JavaScript   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
