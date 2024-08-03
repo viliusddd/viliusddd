@@ -5,7 +5,7 @@ I'm a Full Stack Developer from Vilnius, Lithuania, currently working on improvi
 ### Skills
 #### Programming
 
-![Python] ![JavaScript] ![TypeScript] ![Vue.js] ![HTML5] ![CSS3] ![Node.js] ![SQLite]
+![Python] ![JavaScript] ![TypeScript] ![Vue.js] ![HTML5] ![CSS3] ![Node.js] ![SQLite] ![Zod] ![Express.js] ![Vitest]
 
 [Python]: https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54
 [JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat
@@ -15,6 +15,15 @@ I'm a Full Stack Developer from Vilnius, Lithuania, currently working on improvi
 [CSS3]: https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white
 [Node.js]: https://img.shields.io/badge/Node.js-0D121C?style=flat&logo=node.js&logoColor=5FA04E
 [SQLite]: https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=66B0E4
+[Zod]: https://img.shields.io/badge/Zod-000000?logo=Zod&logoColor=3068B7
+[Express.js]: https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white
+[Vitest]: https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=FCC72B
+
+#### WIP
+![PostgreSQL] ![tRPC]
+
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white
+[tRPC]: https://img.shields.io/badge/-tRPC-2596BE?logo=trpc&logoColor=white
 
 #### Tools
 
