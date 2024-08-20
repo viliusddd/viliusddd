@@ -65,8 +65,13 @@ I'm a developer from Vilnius, Lithuania, currently working on improving my web d
 
 #### Development
 
+
+<a href="https://redhat.com/en/topics/devops/what-is-ci-cd">
 <img alt="CI/CD" src="https://shields.io/badge/CI/CD-193446.svg?logoColor=EC912D">
+</a>
+<a href="https://testdriven.io/test-driven-development">
 <img alt="TDD" src="https://shields.io/badge/TDD-193446.svg?logoColor=EC912D">
+</a>
 
 ### In the last 7 days, I spent my time on:
 <!--START_SECTION:waka-->
