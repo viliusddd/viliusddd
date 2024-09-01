@@ -77,13 +77,13 @@ I'm a developer from Vilnius, Lithuania, currently working on improving my web d
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 44 mins
+Total Time: 23 hrs 12 mins
 
-Markdown     8 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   38.68 %
-TypeScript   3 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-JSON         3 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Python       1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-Other        1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Markdown      8 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   35.57 %
+TypeScript    5 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+JSON          3 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Python        1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Other         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
