@@ -153,13 +153,13 @@ I'm a infrastructure engineer from Vilnius, Lithuania, currently working on impr
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 20 mins
+Total Time: 19 hrs 12 mins
 
-TypeScript    12 hrs 8 mins   ███████████████░░░░░░░░░░   59.40 %
-Vue.js        5 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   27.71 %
-Markdown      1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-JSON          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-HTML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript    11 hrs 22 mins  ██████████████▓░░░░░░░░░░   58.91 %
+Vue.js        5 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+Markdown      1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+JSON          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Bash          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
