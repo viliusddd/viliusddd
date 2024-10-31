@@ -155,7 +155,7 @@ I'm a infrastructure engineer from Vilnius, Lithuania, currently working on impr
 ```txt
 Total Time: 0 secs
 
-Other   28 mins         █████████████████████████   100.00 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
