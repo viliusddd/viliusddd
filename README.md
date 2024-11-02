@@ -153,9 +153,9 @@ I'm a infrastructure engineer from Vilnius, Lithuania, currently working on impr
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 mins
+Total Time: 18 mins
 
-Vue.js   7 mins          █████████████████████████   100.00 %
+Vue.js   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
