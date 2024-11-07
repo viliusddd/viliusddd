@@ -1,6 +1,6 @@
 <h2 align=center>Hello 👋</h2>
 
-I'm a infrastructure engineer from Vilnius, Lithuania, currently working on improving my web development skills.
+I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my web development skills.
 
 ### Skills
 
