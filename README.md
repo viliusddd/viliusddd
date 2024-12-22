@@ -153,13 +153,13 @@ I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 24 mins
+Total Time: 5 hrs 53 mins
 
-Docker                     2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.10 %
-Python                     1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-YAML                       58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Markdown                   41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Bash                       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Docker                     2 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   35.86 %
+YAML                       57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Bash                       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Markdown                   31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Other                      29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 
 <!--END_SECTION:waka-->
