@@ -153,13 +153,9 @@ I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 26 mins
+Total Time: 0 secs
 
-Makefile     17 mins         █████████████████░░░░░░░░   67.36 %
-Python       4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-Markdown     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Git Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
