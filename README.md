@@ -155,9 +155,8 @@ I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my 
 ```txt
 Total Time: 2 mins
 
-Other        14 mins         ████████████████████▓░░░░   83.06 %
-CUE          2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other   14 mins         ████████████████████▓░░░░   83.10 %
+CUE     2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
 ```
 
 <!--END_SECTION:waka-->
