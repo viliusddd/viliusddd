@@ -155,7 +155,8 @@ I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my 
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+CUE     0 secs          ████████████████████████▓   98.68 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
