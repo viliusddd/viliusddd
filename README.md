@@ -153,9 +153,11 @@ I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 12 mins
 
-CUE   0 secs          █████████████████████████   100.00 %
+Docker       12 mins         █████████████████████████   99.92 %
+CUE          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
