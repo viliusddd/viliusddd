@@ -155,8 +155,7 @@ I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my 
 ```txt
 Total Time: 12 mins
 
-Docker       12 mins         █████████████████████████   99.92 %
-CUE          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Docker       12 mins         █████████████████████████   99.97 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
