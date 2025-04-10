@@ -155,11 +155,11 @@ I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my 
 ```txt
 Total Time: 13 hrs 13 mins
 
-YAML         6 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   46.66 %
-Vue.js       4 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   35.35 %
-TypeScript   1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+YAML         6 hrs 17 mins   ███████████▒░░░░░░░░░░░░░   45.82 %
+Vue.js       4 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   34.71 %
+TypeScript   1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
