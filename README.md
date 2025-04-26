@@ -153,13 +153,13 @@ I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 51 mins
+Total Time: 5 hrs 44 mins
 
-JavaScript        1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   30.98 %
-YAML              1 hr 14 mins    ███████▒░░░░░░░░░░░░░░░░░   29.52 %
-CSS               35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-CSV               23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Other             19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+HTML              2 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.39 %
+JavaScript        1 hr 23 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+CSS               45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Other             24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+CSV               23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
