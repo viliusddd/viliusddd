@@ -1,6 +1,6 @@
 <h2 align=center>Hello 👋</h2>
 
-I'm an infrastructure engineer from Vilnius, Lithuania, working on improving my web development skills.
+I'm an infrastructure engineer from Vilnius, Lithuania, and I'm working on improving my web development skills.
 
 ### Skills
 
@@ -200,7 +200,7 @@ Other        1 hr 6 mins     ▓░░░░░░░░░░░░░░░░
   <a href="https://monkeytype.com/profile/v11">
     <img
       title="MonkeyType"
-      src="https://shields.io/badge/103-E2B714.svg?logo=monkeytype&logoColor=E2B714&label=wpm&logo-color=E2B714"
+      src="https://shields.io/badge/102-E2B714.svg?logo=monkeytype&logoColor=E2B714&label=wpm&logo-color=E2B714"
     >
   </a>
 </p>
