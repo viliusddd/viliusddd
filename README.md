@@ -84,9 +84,6 @@ I'm an infrastructure engineer from Vilnius, Lithuania, and I'm working on impro
     src="https://img.shields.io/badge/drizzle-C5F74F?logo=drizzle&logoColor=black"
   >
 </a>
-
-#### WIP
-
 <a href="https://postgresql.org">
   <img
     title="The World's Most Advanced Open Source Relational Database."
@@ -97,12 +94,6 @@ I'm an infrastructure engineer from Vilnius, Lithuania, and I'm working on impro
   <img
     title="Move Fast and Break Nothing. End-to-end typesafe APIs made easy."
     src="https://shields.io/badge/tRPC-2596BE.svg?logo=trpc&logoColor=white"
-  >
-</a>
-<a href="https://authjs.dev">
-  <img
-    title="Authentication for the Web. Free and open source."
-    src="https://shields.io/badge/Auth.js-000000.svg?logoColor=white&logo=shield"
   >
 </a>
 
