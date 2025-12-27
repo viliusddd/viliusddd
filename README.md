@@ -146,7 +146,7 @@ I'm an infrastructure engineer from Vilnius, Lithuania, and I'm working on impro
 ```txt
 Total Time: 0 secs
 
-Other   10 mins         █████████████████████████   100.00 %
+Other   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
