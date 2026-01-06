@@ -144,9 +144,12 @@ I'm an infrastructure engineer from Vilnius, Lithuania, and I'm working on impro
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 40 mins
 
-No activity tracked
+Python       26 mins         ████████████████▓░░░░░░░░   66.69 %
+Bash         12 mins         ████████░░░░░░░░░░░░░░░░░   31.74 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
