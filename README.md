@@ -191,7 +191,7 @@ Bash         31 mins         █▒░░░░░░░░░░░░░░░
   <a href="https://monkeytype.com/profile/v11">
     <img
       title="MonkeyType"
-      src="https://shields.io/badge/102-E2B714.svg?logo=monkeytype&logoColor=E2B714&label=wpm&logo-color=E2B714"
+      src="https://shields.io/badge/104-E2B714.svg?logo=monkeytype&logoColor=E2B714&label=wpm&logo-color=E2B714"
     >
   </a>
 </p>
