@@ -144,13 +144,13 @@ I'm an infrastructure engineer from Vilnius, Lithuania, and I'm working on impro
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 57 mins
+Total Time: 10 hrs 17 mins
 
-Other        5 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.93 %
-ERB          2 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Ruby         2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Bash         1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Python       37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Other        5 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
+ERB          2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Ruby         2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Lua          1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Bash         1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
 ```
 
 <!--END_SECTION:waka-->
