@@ -146,9 +146,9 @@ I'm an infrastructure engineer from Vilnius, Lithuania, and I'm working on impro
 ```txt
 Total Time: 7 hrs 48 mins
 
-ERB           4 hrs 10 mins         █████████████▒░░░░░░░░░░░   53.50 %
-Ruby          2 hrs 26 mins         ███████▓░░░░░░░░░░░░░░░░░   31.25 %
-CSV           42 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+ERB           4 hrs 10 mins         █████████████▒░░░░░░░░░░░   53.53 %
+Ruby          2 hrs 26 mins         ███████▓░░░░░░░░░░░░░░░░░   31.27 %
+CSV           41 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
 Bash          17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 Python        9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
