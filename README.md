@@ -1,7 +1,5 @@
 <h2 align=center>Hello 👋</h2>
 
-I'm an infrastructure engineer from Vilnius, Lithuania, and I'm working on improving my web development skills.
-
 ### Skills
 
 #### Programming
