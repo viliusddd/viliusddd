@@ -142,13 +142,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 17 mins
+Total Time: 24 hrs
 
-Ruby           6 hrs 53 mins         █████████░░░░░░░░░░░░░░░░   36.58 %
-TypeScript     2 hrs 21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Markdown       2 hrs 15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Python         2 hrs 1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-Text           1 hr 59 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Ruby           8 hrs 10 mins         ████████▒░░░░░░░░░░░░░░░░   32.83 %
+Markdown       3 hrs 20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Text           3 hrs 6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+TypeScript     2 hrs 41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Python         2 hrs 34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
 ```
 
 <!--END_SECTION:waka-->
