@@ -142,13 +142,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 43 hrs 52 mins
+Total Time: 47 hrs 2 mins
 
-Ruby          28 hrs 4 mins         ███████████████▒░░░░░░░░░   61.01 %
-Markdown      4 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Text          2 hrs 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Other         2 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JavaScript    1 hr 43 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Ruby          26 hrs 58 mins        █████████████▓░░░░░░░░░░░   54.84 %
+Markdown      5 hrs 30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Text          3 hrs 11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+YAML          3 hrs 8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Other         2 hrs 9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
