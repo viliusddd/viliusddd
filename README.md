@@ -142,13 +142,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 35 mins
+Total Time: 0 secs
 
-Text       1 hr 43 mins          ████████▓░░░░░░░░░░░░░░░░   35.15 %
-Markdown   1 hr 8 mins           █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
-Ruby       51 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-Other      19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-CSV        19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Other   10 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
